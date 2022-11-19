@@ -1,0 +1,16 @@
+
+
+
+senior be careful
+your primary key is the day and month and year and hour and minute, so when you insert transaction with the same details ,
+it will replace it
+
+
+
+
+q :
+1. broadcast if correct
+2. implement two ways of sql ?
+3. sp if that okay to ask user to send notification
+4. no notification message that can't deleted !
+5. sms receiver that don't related to my project ! it;s okay?
